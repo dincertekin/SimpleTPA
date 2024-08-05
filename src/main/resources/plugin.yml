@@ -1,0 +1,12 @@
+name: SimpleTPA
+version: '1.0'
+main: com.dincertekin.simpleTPA.SimpleTPA
+author: dincertekin0
+api-version: '1.21'
+commands:
+  tpa:
+    description: Send a request for teleportation.
+  tpaccept:
+    description: Accept TPA request.
+  tpdeny:
+    description: Deny TPA request.
